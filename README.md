@@ -27,6 +27,10 @@ In the postpaid model, when customers want to switch to another operator, they u
 
 However, in the prepaid model, customers who want to switch to another network can simply stop using the services without any notice, and it is hard to know whether someone has actually churned or is simply not using the services temporarily (e.g. someone may be on a trip abroad for a month or two and then intend to resume using the services again).
 
+
+Input file link  :https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
+
+
  
 
 Thus, churn prediction is usually more critical (and non-trivial) for prepaid customers, and the term ‘churn’ should be defined carefully.  Also, prepaid is the most common model in India and southeast Asia, while postpaid is more common in Europe in North America.
